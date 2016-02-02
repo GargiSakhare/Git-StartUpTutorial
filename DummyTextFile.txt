@@ -1,1 +1,1 @@
-This is a dummy text file.Changed in feature changed text
+This is a dummy text file.Changed in feature changed text.This is Hotfix231
