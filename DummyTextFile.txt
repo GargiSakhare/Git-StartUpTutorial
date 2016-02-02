@@ -1,1 +1,4 @@
 This is a dummy text file.Changed in feature changed text
+tring to get conflicts
+1234
+xyz
