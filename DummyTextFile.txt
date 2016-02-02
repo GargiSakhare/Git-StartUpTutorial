@@ -1,2 +1,5 @@
 This is a dummy text file.Changed in feature changed text.This is Hotfix231
-test conflict...xyz
+tring to get conflicts
+1234
+xyz
+
